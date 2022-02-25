@@ -1,0 +1,165 @@
+// question name: Question 2 ?
+//[id:XX.XX.Q02.01]
+::Question 2 ?::
+[html]XX.XX.Q02.01 <strong>Question 2 ?</strong>{
+~%-25%Question 2 Réponse fausse 2
+~%-25%Question 2 Réponse fausse 3
+~%-25%Question 2 Réponse fausse 5
+~%-25%Question 2 Réponse fausse 4
+~%100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.02]
+::Question 2 ?::
+[html]XX.XX.Q02.02 <strong>Question 2 ?</strong>{
+~%-25%Question 2 Réponse fausse 2
+~%-25%Question 2 Réponse fausse 1
+~%-25%Question 2 Réponse fausse 3
+~%-25%Question 2 Réponse fausse 5
+~%100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.03]
+::Question 2 ?::
+[html]XX.XX.Q02.03 <strong>Question 2 ?</strong>{
+~%100%Question 2 Réponse correcte 1
+~%-33.333333333333336%Question 2 Réponse fausse 2
+~%-33.333333333333336%Question 2 Réponse fausse 3
+~%-33.333333333333336%Question 2 Réponse fausse 5
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.04]
+::Question 2 ?::
+[html]XX.XX.Q02.04 <strong>Question 2 ?</strong>{
+~%-25%Question 2 Réponse fausse 2
+~%-25%Question 2 Réponse fausse 3
+~%-25%Question 2 Réponse fausse 1
+~%-25%Question 2 Réponse fausse 4
+~%100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.05]
+::Question 2 ?::
+[html]XX.XX.Q02.05 <strong>Question 2 ?</strong>{
+~%100%Question 2 Réponse correcte 1
+~%-33.333333333333336%Question 2 Réponse fausse 2
+~%-33.333333333333336%Question 2 Réponse fausse 3
+~%-33.333333333333336%Question 2 Réponse fausse 4
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.06]
+::Question 2 ?::
+[html]XX.XX.Q02.06 <strong>Question 2 ?</strong>{
+~%100%Question 2 Réponse correcte 1
+~%-33.333333333333336%Question 2 Réponse fausse 2
+~%-33.333333333333336%Question 2 Réponse fausse 3
+~%-33.333333333333336%Question 2 Réponse fausse 1
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.07]
+::Question 2 ?::
+[html]XX.XX.Q02.07 <strong>Question 2 ?</strong>{
+~%-25%Question 2 Réponse fausse 2
+~%-25%Question 2 Réponse fausse 1
+~%-25%Question 2 Réponse fausse 5
+~%-25%Question 2 Réponse fausse 4
+~%100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.08]
+::Question 2 ?::
+[html]XX.XX.Q02.08 <strong>Question 2 ?</strong>{
+~%100%Question 2 Réponse correcte 1
+~%-33.333333333333336%Question 2 Réponse fausse 2
+~%-33.333333333333336%Question 2 Réponse fausse 5
+~%-33.333333333333336%Question 2 Réponse fausse 4
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.09]
+::Question 2 ?::
+[html]XX.XX.Q02.09 <strong>Question 2 ?</strong>{
+~%100%Question 2 Réponse correcte 1
+~%-33.333333333333336%Question 2 Réponse fausse 2
+~%-33.333333333333336%Question 2 Réponse fausse 1
+~%-33.333333333333336%Question 2 Réponse fausse 5
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.10]
+::Question 2 ?::
+[html]XX.XX.Q02.10 <strong>Question 2 ?</strong>{
+~%100%Question 2 Réponse correcte 1
+~%-33.333333333333336%Question 2 Réponse fausse 2
+~%-33.333333333333336%Question 2 Réponse fausse 1
+~%-33.333333333333336%Question 2 Réponse fausse 4
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.11]
+::Question 2 ?::
+[html]XX.XX.Q02.11 <strong>Question 2 ?</strong>{
+~%-25%Question 2 Réponse fausse 1
+~%-25%Question 2 Réponse fausse 3
+~%-25%Question 2 Réponse fausse 5
+~%-25%Question 2 Réponse fausse 4
+~%100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.12]
+::Question 2 ?::
+[html]XX.XX.Q02.12 <strong>Question 2 ?</strong>{
+~%100%Question 2 Réponse correcte 1
+~%-33.333333333333336%Question 2 Réponse fausse 3
+~%-33.333333333333336%Question 2 Réponse fausse 5
+~%-33.333333333333336%Question 2 Réponse fausse 4
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.13]
+::Question 2 ?::
+[html]XX.XX.Q02.13 <strong>Question 2 ?</strong>{
+~%100%Question 2 Réponse correcte 1
+~%-33.333333333333336%Question 2 Réponse fausse 1
+~%-33.333333333333336%Question 2 Réponse fausse 3
+~%-33.333333333333336%Question 2 Réponse fausse 5
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.14]
+::Question 2 ?::
+[html]XX.XX.Q02.14 <strong>Question 2 ?</strong>{
+~%100%Question 2 Réponse correcte 1
+~%-33.333333333333336%Question 2 Réponse fausse 3
+~%-33.333333333333336%Question 2 Réponse fausse 1
+~%-33.333333333333336%Question 2 Réponse fausse 4
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.15]
+::Question 2 ?::
+[html]XX.XX.Q02.15 <strong>Question 2 ?</strong>{
+~%100%Question 2 Réponse correcte 1
+~%-33.333333333333336%Question 2 Réponse fausse 1
+~%-33.333333333333336%Question 2 Réponse fausse 5
+~%-33.333333333333336%Question 2 Réponse fausse 4
+~%-100%Aucune de ces propositions n'est juste
+}
+

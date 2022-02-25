@@ -1,0 +1,70 @@
+// question name: Question 1 ?
+//[id:XX.XX.Q01.00]
+::Question 1 ?::
+[html]XX.XX.Q01.00 <strong>Question 1 ?</strong>{
+~%50%Question 1 Réponse correcte 1
+~%50%Question 1 Réponse correcte 2
+~%-25%Question 1 Réponse fausse 1
+~%-25%Question 1 Réponse fausse 2
+~%-25%Question 1 Réponse fausse 3
+~%-25%Question 1 Réponse fausse 4
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 2 ?
+//[id:XX.XX.Q02.00]
+::Question 2 ?::
+[html]XX.XX.Q02.00 <strong>Question 2 ?</strong>{
+~%100%Question 2 Réponse correcte 1
+~%-20%Question 2 Réponse fausse 1
+~%-20%Question 2 Réponse fausse 2
+~%-20%Question 2 Réponse fausse 3
+~%-20%Question 2 Réponse fausse 4
+~%-20%Question 2 Réponse fausse 5
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 3 ?
+//[id:XX.XX.Q03.00]
+::Question 3 ?::
+[html]XX.XX.Q03.00 <strong>Question 3 ?</strong>{
+~%20%Question 3 Réponse correcte 1
+~%20%Question 3 Réponse correcte 2
+~%20%Question 3 Réponse correcte 3
+~%20%Question 3 Réponse correcte 4
+~%20%Question 3 Réponse correcte 5
+~%-20%Question 3 Réponse fausse 1
+~%-20%Question 3 Réponse fausse 2
+~%-20%Question 3 Réponse fausse 3
+~%-20%Question 3 Réponse fausse 4
+~%-20%Question 3 Réponse fausse 5
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 4 ?
+//[id:XX.XX.Q04.00]
+::Question 4 ?::
+[html]XX.XX.Q04.00 <strong>Question 4 ?</strong>{
+~%20%Question 4 Réponse correcte 1
+~%20%Question 4 Réponse correcte 2
+~%20%Question 4 Réponse correcte 3
+~%20%Question 4 Réponse correcte 4
+~%20%Question 4 Réponse correcte 5
+~%-50%Question 4 Réponse fausse 1
+~%-50%Question 4 Réponse fausse 2
+~%-100%Aucune de ces propositions n'est juste
+}
+
+// question name: Question 4 ?
+//[id:XX.XX.Q05.00]
+::Question 4 ?::
+[html]XX.XX.Q05.00 <strong>Question 4 ?</strong>{
+~%33.333333333333336%Question 5 Réponse correcte 1
+~%33.333333333333336%Question 5 Réponse correcte 2
+~%33.333333333333336%Question 5 Réponse correcte 3
+~%-33.333333333333336%Question 5 Réponse fausse 1
+~%-33.333333333333336%Question 5 Réponse fausse 2
+~%-33.333333333333336%Question 5 Réponse fausse 3
+~%-100%Aucune de ces propositions n'est juste
+}
+
